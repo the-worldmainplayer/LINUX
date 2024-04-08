@@ -1,4 +1,5 @@
 ```bash
-curl -sSL https://github.com/the-worldmainplayer/LINUX/blob/main/script.sh | bash 
-more info.txt
+curl -sSL https://raw.githubusercontent.com/the-worldmainplayer/LINUX/main/linux.sh | bash
+more file
+
 ```
