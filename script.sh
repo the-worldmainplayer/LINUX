@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Systeminformationen in Datei speichern
 
 # IP-Adresse
